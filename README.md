@@ -7,5 +7,9 @@
          mind map.mind  
          latex.mind  
          ...  
+
+### about markmind mobile
+
+please open 
      
  
