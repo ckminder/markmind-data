@@ -7,6 +7,10 @@
          mind map.mind  
          latex.mind  
          ...  
+### screenshot
+![win.png](https://i.loli.net/2020/06/21/rkHwx68hiKqVNAP.png)
+![mac.png](https://i.loli.net/2020/06/21/PRZeoVTkdaqjw4E.png)
+![linux.png](https://i.loli.net/2020/06/21/JTyHG7qvKMkQIwb.png)
 
 ### about markmind mobile
 
