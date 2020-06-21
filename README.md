@@ -10,6 +10,6 @@
 
 ### about markmind mobile
 
-please open 
+please open [markmind mobile](https://github.com/ckminder/markmind-mobile)
      
  
